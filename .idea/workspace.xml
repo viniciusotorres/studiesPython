@@ -4,24 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41ca67d3-c1d8-4048-835c-6853997f09ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/evoluindoPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula006/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula006/desafio006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula006/teoria006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula007/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula007/desafio006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula007/teoria006.py" afterDir="false" />
+    <list default="true" id="41ca67d3-c1d8-4048-835c-6853997f09ea" name="Changes" comment="Iniciado curso em Python.">
+      <change afterPath="$PROJECT_DIR$/atividade002/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade002/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade002/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade002/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade002/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade002/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade002/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula008/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula008/teoria008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +43,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2kyQyePD6VfBB1VOv5zwxiyNj3Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,14 +56,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.__init__.executor": "Run",
     "Python.desafio006 (1).executor": "Run",
     "Python.desafio006.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
     "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
     "Python.teoria006 (1).executor": "Run",
     "Python.teoria006.executor": "Run",
+    "Python.teoria008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "ex001"
   }
@@ -68,8 +89,8 @@
       <recent name="C:\Users\ACER\Desktop\Studies\evoluindoPython\atividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio006 (1)">
-    <configuration name="desafio006 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex021">
+    <configuration name="ex017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="evoluindoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula007" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividade002" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula007/desafio006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividade002/ex017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="evoluindoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teorias" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividade002" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teorias/desafio006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividade002/ex018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="evoluindoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividade002" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/ex003.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ACER\Desktop\Studies\evoluindoPython\atividade002\ex019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="evoluindoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividade002" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/ex004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividade002/ex020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teoria006 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="evoluindoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula007" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividade002" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula007/teoria006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividade002/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio006 (1)" />
-        <item itemvalue="Python.teoria006 (1)" />
-        <item itemvalue="Python.ex004" />
-        <item itemvalue="Python.ex003" />
-        <item itemvalue="Python.desafio006" />
+        <item itemvalue="Python.ex021" />
+        <item itemvalue="Python.ex020" />
+        <item itemvalue="Python.ex019" />
+        <item itemvalue="Python.ex018" />
+        <item itemvalue="Python.ex017" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +226,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724253591575</updated>
     </task>
+    <task id="LOCAL-00001" summary="Iniciado curso em Python.">
+      <option name="closed" value="true" />
+      <created>1724261255020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724261255020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iniciado curso em Python." />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciado curso em Python." />
   </component>
 </project>
